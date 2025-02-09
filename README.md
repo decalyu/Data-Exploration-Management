@@ -71,7 +71,7 @@ chmod u+x docker_image_setup.sh
 ```
 ---
 
-### 📦 Step 4: Run the Docker Container  
+### 📦 Step 5: Run the Docker Container  
 > **⚠️ Warning**: Ensure port `8888` is free. The script will automatically clean up this port if it's in use by stopping and removing any Docker container using it.
 Once the Docker image has been built, you need to **run a container** from it. This will start a Jupyter Notebook environment that you can access from your web browser.  
 
@@ -85,7 +85,7 @@ docker run -p 8888:8888 -v $(pwd):/home/jovyan/work data_exploration_management
 
 
 
-### 🌐 Step 5: Access Jupyter Notebook  
+### 🌐 Step 6: Access Jupyter Notebook  
 
 Now that your container is running, you can access Jupyter Notebook by opening a web browser and navigating to:  
 
@@ -99,7 +99,7 @@ docker logs $(docker ps -q --filter "ancestor=data_exploration_management")
 ```
 ---
 
-### 📊 Step 6: Explore the Notebooks  
+### 📊 Step 7: Explore the Notebooks  
 
 In the Jupyter interface, open the **`data_exploration.ipynb`** notebook to begin the workshop activities.
 

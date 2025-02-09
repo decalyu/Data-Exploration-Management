@@ -116,6 +116,25 @@ You can also explore and execute the following files for additional functionalit
 - **`upload_to_hpc.py`** – Script for uploading data to HPC.
 - **`titanic.csv`** – Example dataset for visualization and exploration.
 
+ #### 📊 **About the Titanic Dataset**  
+The **Titanic dataset** used in this notebook contains data about passengers aboard the RMS Titanic. This dataset includes several columns such as:
+- **`Age`** – The age of the passenger.
+- **`Fare`** – The amount the passenger paid for the ticket.
+- **`Survived`** – Whether the passenger survived (1) or not (0).
+- **`Pclass`** – The class of the ticket (1st, 2nd, or 3rd class).
+- **`Sex`** – Gender of the passenger.
+- **`Embarked`** – Port of embarkation.
+
+The dataset is used to explore patterns such as:
+- The **age distribution** of passengers.
+- The relationship between **fare** and **age**.
+- The survival rates across different **passenger classes**.
+
+#### 📌 **Data Source**  
+The dataset used in this workshop is based on the Titanic passenger data, which was originally made available as part of the **Kaggle Titanic: Machine Learning from Disaster** competition.  
+You can access the original dataset here:  
+- [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+
 #### 📊 Observe Data Visualizations  
 Once you run the notebooks, you will be able to:  
 ✅ Visualize dataset distributions using **histograms**.  

@@ -35,7 +35,7 @@ First, clone the workshop repository to your local machine. This will allow you 
 Run the following command in your terminal:  
 
 ```bash
-git clone https://github.com/decalyu/XiaoyuLyu_Data-Exploration-Management.git
+git clone https://github.com/decalyu/Data-Exploration-Management.git
 cd XiaoyuLyu_Data-Exploration-Management
 ```
 Before building the Docker image, ensure you are inside the **correct folder** where the `Dockerfile` is located.  
@@ -43,7 +43,7 @@ Before building the Docker image, ensure you are inside the **correct folder** w
 Run the following command to move into the correct directory:  
 
 ```bash
-cd ~/XiaoyuLyu_Data-Exploration-Management/Using_a_Local_Computer
+cd ~/Data-Exploration-Management/Using_a_Local_Computer
 ```
 ---
 

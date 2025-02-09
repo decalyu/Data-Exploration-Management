@@ -36,7 +36,7 @@ Run the following command in your terminal:
 
 ```bash
 git clone https://github.com/decalyu/Data-Exploration-Management.git
-cd XiaoyuLyu_Data-Exploration-Management
+cd Data-Exploration-Management
 ```
 Before building the Docker image, ensure you are inside the **correct folder** where the `Dockerfile` is located.  
 

@@ -160,5 +160,8 @@ Stay tuned for the next section!
 ---
 
 ### 🎯 Happy Coding! 😊
+---
 
+💡 **Note:**  
+If you are new to coding, data visualization, data analysis, or data manipulation, please check out the [Lab Guide](https://github.com/decalyu/Data-Exploration-Management/wiki/Lab) before you start!
 
